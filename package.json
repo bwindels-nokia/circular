@@ -1,0 +1,8 @@
+{
+  "name": "circular",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "wrapper function that detect circular references and throws a meaningful error",
+  "main": "./lib/circular.js",
+  "dependencies" : {}
+}
